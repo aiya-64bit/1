@@ -2,7 +2,7 @@ name: Build and release Aseprite
 
 on:
   push:
-分支:
+branchzs:
       - main
     paths:
       - 'BuildLog.md'
